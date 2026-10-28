@@ -1,0 +1,9 @@
+# Do not edit manually
+# This file is used to override language statistics
+vendor/* linguist-vendored
+**/*.js linguist-detectable
+docs/** linguist-vendored 
+*.jpeg binary
+*.min.js linguist-generated
+
+package-lock.json linguist-generated
